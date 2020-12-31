@@ -10,4 +10,4 @@ El siguiente proyecto, es un tutorial de como un científico de datos utiliza la
 - Visualizar los datos con un gráfico de radar.
 
 Aquí tienes acceso al artículo en mi linkedin, donde detallo todo el proceso para que cualquier persona que se esté iniciando en la ciencia del dato, pueda entenderlo. 
-https://www.linkedin.com/feed/update/urn:li:activity:6750114428907225088/
+https://www.linkedin.com/pulse/ciencia-de-datos-aplicado-al-aloncesto-luis-fernando-%25C3%25BAbeda-camacho/?trackingId=SBfMw8ghQ%2BCEJujyJ%2BiUdA%3D%3D
